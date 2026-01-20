@@ -1,4 +1,0 @@
-auto auto config --> to come pop
-git CUL --> Command line Interface
-
-GUI --> Graphical user interface --> (by clicking initialized respositories)
